@@ -35,4 +35,12 @@
   to {
     transform: rotate(360deg);
   }
+ 
 }
+.my-btn{
+  background-color : red;
+  color: white;
+ 
+  placeItems: 'center',
+
+} 
